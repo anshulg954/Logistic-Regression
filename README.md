@@ -1,10 +1,10 @@
 # Logistic-Regression
-Implementing Logistic Regression from a Neural Network.
+Implementing Logistic Regression from a Neural Network.<br />
 
-Things learnt were,
-*Preprocessing the dataset is important.*//
-*You implemented each function separately: initialize(), propagate(), optimize(). Then you built a model().*//
-*Tuning the learning rate (which is an example of a "hyperparameter") can make a big difference to the algorithm. You will see more examples of this later in this course!*//
+Things learnt were,<br />
+*Preprocessing the dataset is important.*<br />
+*You implemented each function separately: initialize(), propagate(), optimize(). Then you built a model().*<br />
+*Tuning the learning rate (which is an example of a "hyperparameter") can make a big difference to the algorithm.*<br />
 
 
 ## Important Links:
